@@ -1,0 +1,6 @@
+﻿  Facets.cpp
+c:\dropbox\courses\pluralsight - c++ design patterns\creational\creational\facets.cpp(17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Person.cpp
+  PersonBuilder.cpp
+  Generating Code...
+  Facets.vcxproj -> C:\Dropbox\Courses\Pluralsight - C++ Design Patterns\Creational\Creational\Facets\Debug\Facets.exe

@@ -1,0 +1,8 @@
+﻿  Facets.cpp
+c:\dropbox\courses\pluralsight - c++ design patterns\creational\creational\facets.cpp(17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Person.cpp
+  PersonBuilder.cpp
+  Generating code
+  All 104 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Facets.vcxproj -> C:\Dropbox\Courses\Pluralsight - C++ Design Patterns\Creational\Creational\Facets\Release\Facets.exe
